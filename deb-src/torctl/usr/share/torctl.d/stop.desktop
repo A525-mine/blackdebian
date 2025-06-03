@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=TOR Stop
+Comment=Stop TOR anonymization
+Exec=sh /usr/share/torctl.d/stop.sh
+Terminal=false
+Icon=browser-tor
+Categories=Network;
