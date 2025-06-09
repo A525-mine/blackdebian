@@ -1,8 +1,0 @@
-Package: torctl
-Version: 1.0.0
-Selection: utils
-Priority: optional
-Architecture: all
-Maintainer: BlackArch && B1ack
-Depends: tor, secure-delete, systemd, iptables
-Description: All system Onion anonimisation
