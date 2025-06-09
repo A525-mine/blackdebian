@@ -1,8 +1,0 @@
-Origin: B1ack
-Label: b1
-Suite: stable
-Version: 1.0
-Codename: stable
-Architectures: amd64 i386
-Components: main
-Description: B1ackOS help repo for Debian
