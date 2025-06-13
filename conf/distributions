@@ -1,0 +1,5 @@
+Codename: stable
+Suite: stable
+Components: main
+Architectures: amd64 i368
+SignWith: F561A50C41C62AAF4EFAEC5092AAE5260F849E08

@@ -1,0 +1,26 @@
+Suite: stable
+Codename: stable
+Date: Fri, 13 Jun 2025 11:46:40 UTC
+Architectures: amd64 i368
+Components: main
+MD5Sum:
+ 8ae900b606203e1c331e03bf82a60f70 430 main/binary-amd64/Packages
+ abb8182f13cbc7e6a8e453109ad9b066 329 main/binary-amd64/Packages.gz
+ 82a1ae90445e5284617f8a8cc3a53fa4 52 main/binary-amd64/Release
+ 8ae900b606203e1c331e03bf82a60f70 430 main/binary-i368/Packages
+ abb8182f13cbc7e6a8e453109ad9b066 329 main/binary-i368/Packages.gz
+ ef5e141783036b9c9ae884733c806e32 51 main/binary-i368/Release
+SHA1:
+ 81fd548c30abfcf182ba923618d44031c77fc5f1 430 main/binary-amd64/Packages
+ 10b0a19a66d103230fc192f68c39a42c77412447 329 main/binary-amd64/Packages.gz
+ 9b61d92e2c42866227d305db51276f4714da5cd9 52 main/binary-amd64/Release
+ 81fd548c30abfcf182ba923618d44031c77fc5f1 430 main/binary-i368/Packages
+ 10b0a19a66d103230fc192f68c39a42c77412447 329 main/binary-i368/Packages.gz
+ cef96a8a666fd579636f01b90fc35579799ec275 51 main/binary-i368/Release
+SHA256:
+ 023a1b838a5be09983019662b869bfeae520be146c4bc4aec55e9313a37db163 430 main/binary-amd64/Packages
+ 7f3548e055cbd15820adb56c9610786ac6f2a5eb6976e39315cb1a826442fedf 329 main/binary-amd64/Packages.gz
+ 5d14a4f1b270a16b7797dfa013f0d0d3325c616762714c6e9a34295a4d9be351 52 main/binary-amd64/Release
+ 023a1b838a5be09983019662b869bfeae520be146c4bc4aec55e9313a37db163 430 main/binary-i368/Packages
+ 7f3548e055cbd15820adb56c9610786ac6f2a5eb6976e39315cb1a826442fedf 329 main/binary-i368/Packages.gz
+ d4eb9489c72c6ae5ea415de7b86d751049f6f7d5921c2ac1d56497de2ac789d1 51 main/binary-i368/Release
